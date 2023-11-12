@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+}
+
+#toggle-output {
+    margin-bottom: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#color-picker {
+    margin-bottom: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#input-area {
+    margin-bottom: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#output-area, #output-area-bg {
+    white-space: pre-wrap;
+    padding-left: 20%;
+    padding-right: 20%;
+}
